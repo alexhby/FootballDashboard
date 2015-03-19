@@ -6,7 +6,7 @@ boyi.he@mail.mcgill.ca
 
 This is an application that prints out a scoring dashboard as text during a football match.
 
-The application¡¯s required inputs are singular entries following the following flow:
+The application's required inputs are singular entries following the following flow:
 
 1. The Football Scoring Dashboard needs to know when a game starts through being supplied a string of this format: 
 "Start: '<Name of Home Team>' vs. '<Name of Away Team>'". 
