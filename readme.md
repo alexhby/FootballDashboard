@@ -1,4 +1,4 @@
-Football Scoring Dashboard
+#Football Scoring Dashboard
 
 By Alexander Boyi He
 boyi.he@mail.mcgill.ca
