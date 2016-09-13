@@ -1,8 +1,7 @@
 #Football Scoring Dashboard
 
-By Alexander Boyi He
-boyi.he@mail.mcgill.ca
-
+By Boyi He
+boyihe@seas.upenn.edu
 
 This is an application that prints out a scoring dashboard as text during a football match.
 
